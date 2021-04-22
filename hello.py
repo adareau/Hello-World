@@ -9,3 +9,6 @@ a = {
     3: "a third string",
     4: "bla bla bla bla black",
 }
+
+
+b = {1: "<sdf"}
